@@ -1,5 +1,6 @@
 {
     "title": "Demo", 
     "author": "Nolann", 
-    "start_page": "home"
+    "start_page": "home",
+    "icon": ""
 }
